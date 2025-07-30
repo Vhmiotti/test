@@ -1,0 +1,124 @@
+{
+  "video": {
+    "url": "https://www.youtube.com/watch?v=exemplo123",
+    "titulo_detectado": "Como Desenvolver Disciplina Pessoal em 30 Dias",
+    "idioma_origem": "pt",
+    "traduzido_para": "pt",
+    "duracao_minutos": 12.4,
+    "qualidade_transcricao": "alta",
+    "motivo_qualidade": "áudio limpo, fala clara e pausas bem definidas",
+    "uploader": "Canal Produtividade",
+    "upload_date": "20241201",
+    "view_count": 45230
+  },
+  "modos": {
+    "transcricao": {
+      "srt": "1\n00:00:01,000 --> 00:00:05,500\nHoje vamos falar sobre como desenvolver disciplina pessoal de forma prática.\n\n2\n00:00:05,500 --> 00:00:10,200\nA disciplina não é sobre força de vontade, mas sobre sistemas inteligentes.\n\n3\n00:00:10,200 --> 00:00:15,800\nVou compartilhar três estratégias que mudaram completamente minha rotina.\n\n4\n00:00:15,800 --> 00:00:20,100\nA primeira estratégia é a regra dos dois minutos.",
+      "blocos": [
+        {
+          "start": "00:00:01,000",
+          "end": "00:00:05,500",
+          "speaker": "Speaker 1",
+          "text": "Hoje vamos falar sobre como desenvolver disciplina pessoal de forma prática."
+        },
+        {
+          "start": "00:00:05,500",
+          "end": "00:00:10,200",
+          "speaker": "Speaker 1",
+          "text": "A disciplina não é sobre força de vontade, mas sobre sistemas inteligentes."
+        },
+        {
+          "start": "00:00:10,200",
+          "end": "00:00:15,800",
+          "speaker": "Speaker 1",
+          "text": "Vou compartilhar três estratégias que mudaram completamente minha rotina."
+        },
+        {
+          "start": "00:00:15,800",
+          "end": "00:00:20,100",
+          "speaker": "Speaker 1",
+          "text": "A primeira estratégia é a regra dos dois minutos."
+        }
+      ]
+    },
+    "insights": [
+      {
+        "nome": "Regra dos Dois Minutos",
+        "tipo": "ação imediata",
+        "timestamp": "00:01:15",
+        "descricao": "Se uma tarefa leva menos de dois minutos para ser concluída, faça imediatamente ao invés de adiar. Isso evita acúmulo de pequenas tarefas."
+      },
+      {
+        "nome": "Sistema de Recompensas",
+        "tipo": "motivacional",
+        "timestamp": "00:03:42",
+        "descricao": "Crie um sistema de recompensas pequenas para cada meta atingida. O cérebro precisa de feedback positivo para manter novos hábitos."
+      },
+      {
+        "nome": "Ambiente de Sucesso",
+        "tipo": "técnico",
+        "timestamp": "00:05:20",
+        "descricao": "Modifique seu ambiente físico para facilitar bons hábitos e dificultar os ruins. O ambiente é mais forte que a motivação."
+      },
+      {
+        "nome": "Princípio da Consistência",
+        "tipo": "conceitual",
+        "timestamp": "00:07:10",
+        "descricao": "Consistência supera intensidade. É melhor fazer 10 minutos todos os dias do que 2 horas uma vez por semana."
+      },
+      {
+        "nome": "Tracking Visual",
+        "tipo": "técnico",
+        "timestamp": "00:09:30",
+        "descricao": "Use um calendário ou app para marcar visualmente seus progressos. Ver a sequência de sucessos motiva a continuar."
+      }
+    ],
+    "clippings": [
+      {
+        "frase": "A disciplina é a forma mais pura de liberdade.",
+        "timestamp": "00:02:18",
+        "emocao": "inspiração",
+        "contexto": "Contexto do momento no vídeo: Após explicar como hábitos libertam a mente da decisão constante sobre o que fazer..."
+      },
+      {
+        "frase": "Você não precisa de motivação, você precisa de um sistema.",
+        "timestamp": "00:04:45",
+        "emocao": "crítica",
+        "contexto": "Contexto do momento no vídeo: Criticando a dependência de motivação para manter hábitos saudáveis..."
+      },
+      {
+        "frase": "Comece tão pequeno que seja impossível falhar.",
+        "timestamp": "00:06:12",
+        "emocao": "esperança",
+        "contexto": "Contexto do momento no vídeo: Explicando como começar com micro-hábitos para garantir sucesso inicial..."
+      },
+      {
+        "frase": "O que você faz hoje determina quem você será amanhã.",
+        "timestamp": "00:08:33",
+        "emocao": "urgência",
+        "contexto": "Contexto do momento no vídeo: Enfatizando a importância de ações diárias na formação da identidade..."
+      },
+      {
+        "frase": "Seus hábitos são votos para o tipo de pessoa que você quer ser.",
+        "timestamp": "00:11:15",
+        "emocao": "inspiração",
+        "contexto": "Contexto do momento no vídeo: Conclusão sobre como cada ação pequena contribui para a identidade desejada..."
+      }
+    ],
+    "conteudo": {
+      "resumo": "Neste vídeo, o autor apresenta estratégias práticas para desenvolver disciplina pessoal baseadas em sistemas ao invés de motivação. Ele explica a regra dos dois minutos, a importância do ambiente e como usar recompensas para manter novos hábitos. O foco está em consistência e pequenas ações diárias que, acumuladas, geram grandes transformações na vida pessoal e profissional.",
+      "blog_titulo": "Como desenvolver disciplina pessoal em 30 dias: guia prático e completo",
+      "headlines": {
+        "clickbait": "Você nunca mais vai procrastinar depois de conhecer estas 3 estratégias",
+        "profundo": "A ciência por trás da disciplina: como sistemas superam motivação",
+        "pratico": "3 passos simples para criar disciplina duradoura hoje mesmo"
+      },
+      "post_social": "A disciplina não é sobre força de vontade, mas sobre sistemas inteligentes. Este vídeo mudou minha perspectiva sobre como criar hábitos duradouros. Vale cada minuto investido. #Disciplina #Produtividade #Hábitos #Crescimento"
+    }
+  },
+  "metadata": {
+    "processado_em": "2025-07-30T02:38:56.325919",
+    "versao_processador": "1.0.0",
+    "tempo_processamento_segundos": 142.5
+  }
+}

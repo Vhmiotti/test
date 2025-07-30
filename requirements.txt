@@ -1,0 +1,13 @@
+yt-dlp>=2023.12.30
+openai-whisper>=20231117
+googletrans==4.0.0rc1
+nltk>=3.8.1
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+python-dotenv>=1.0.0
+pydub>=0.25.1
+torch>=2.1.0
+transformers>=4.36.0
+sentence-transformers>=2.2.2
+langdetect>=1.0.9
+regex>=2023.10.3
